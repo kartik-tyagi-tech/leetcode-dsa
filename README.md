@@ -44,4 +44,16 @@ Maintained by me as part of daily coding practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0013-roman-to-integer](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0013-roman-to-integer/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0013-roman-to-integer](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0013-roman-to-integer/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0013-roman-to-integer](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0013-roman-to-integer/) | Easy |
 <!---LeetCode Topics End-->
