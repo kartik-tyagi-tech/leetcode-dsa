@@ -40,6 +40,7 @@ Maintained by me as part of daily coding practice.
 | ------- | ------- |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1929-concatenation-of-array](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1929-concatenation-of-array/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,4 +57,8 @@ Maintained by me as part of daily coding practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0013-roman-to-integer/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1929-concatenation-of-array](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1929-concatenation-of-array/) | Easy |
 <!---LeetCode Topics End-->
