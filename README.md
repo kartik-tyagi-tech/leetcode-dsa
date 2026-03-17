@@ -50,6 +50,7 @@ Maintained by me as part of daily coding practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0013-roman-to-integer/) | Easy |
+| [0771-jewels-and-stones](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0771-jewels-and-stones/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -61,6 +62,7 @@ Maintained by me as part of daily coding practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0013-roman-to-integer/) | Easy |
+| [0771-jewels-and-stones](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0771-jewels-and-stones/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1108-defanging-an-ip-address/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
