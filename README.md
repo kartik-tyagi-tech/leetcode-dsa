@@ -38,6 +38,7 @@ Maintained by me as part of daily coding practice.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0217-contains-duplicate/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1470-shuffle-the-array](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -52,6 +53,7 @@ Maintained by me as part of daily coding practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0013-roman-to-integer/) | Easy |
+| [0217-contains-duplicate](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0217-contains-duplicate/) | Easy |
 | [0771-jewels-and-stones](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0771-jewels-and-stones/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Math
@@ -83,4 +85,8 @@ Maintained by me as part of daily coding practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0344-reverse-string](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0344-reverse-string/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0217-contains-duplicate/) | Easy |
 <!---LeetCode Topics End-->
