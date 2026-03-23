@@ -63,6 +63,7 @@ Maintained by me as part of daily coding practice.
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0013-roman-to-integer/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0172-factorial-trailing-zeroes/) | Medium |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [1250-check-if-it-is-a-good-array](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1512-number-of-good-pairs](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2235-add-two-integers](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/2235-add-two-integers/) | Easy |
@@ -99,4 +100,8 @@ Maintained by me as part of daily coding practice.
 | ------- | ------- |
 | [1250-check-if-it-is-a-good-array](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/3233-find-the-count-of-numbers-which-are-not-special/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 <!---LeetCode Topics End-->
