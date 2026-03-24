@@ -38,6 +38,7 @@ Maintained by me as part of daily coding practice.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0217-contains-duplicate/) | Easy |
 | [1250-check-if-it-is-a-good-array](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
@@ -54,6 +55,7 @@ Maintained by me as part of daily coding practice.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0013-roman-to-integer/) | Easy |
 | [0217-contains-duplicate](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0242-valid-anagram/) | Easy |
