@@ -45,6 +45,7 @@ Maintained by me as part of daily coding practice.
 | [0150-evaluate-reverse-polish-notation](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0162-find-peak-element](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0162-find-peak-element/) | Medium |
 | [0198-house-robber](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0198-house-robber/) | Medium |
+| [0204-count-primes](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0204-count-primes/) | Medium |
 | [0217-contains-duplicate](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0217-contains-duplicate/) | Easy |
 | [0704-binary-search](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0704-binary-search/) | Easy |
 | [1250-check-if-it-is-a-good-array](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
@@ -75,6 +76,7 @@ Maintained by me as part of daily coding practice.
 | [0013-roman-to-integer](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0013-roman-to-integer/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0172-factorial-trailing-zeroes](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0172-factorial-trailing-zeroes/) | Medium |
+| [0204-count-primes](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0204-count-primes/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [1250-check-if-it-is-a-good-array](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
@@ -118,6 +120,7 @@ Maintained by me as part of daily coding practice.
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0204-count-primes/) | Medium |
 | [1250-check-if-it-is-a-good-array](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/3233-find-the-count-of-numbers-which-are-not-special/) | Medium |
@@ -170,4 +173,8 @@ Maintained by me as part of daily coding practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0143-reorder-list](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0143-reorder-list/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
