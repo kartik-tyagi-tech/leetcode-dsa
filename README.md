@@ -39,6 +39,7 @@ Maintained by me as part of daily coding practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0001-two-sum/) | Easy |
+| [0015-3sum](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0015-3sum/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0046-permutations](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0046-permutations/) | Medium |
 | [0049-group-anagrams](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0049-group-anagrams/) | Medium |
@@ -117,6 +118,7 @@ Maintained by me as part of daily coding practice.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0125-valid-palindrome/) | Easy |
 | [0143-reorder-list](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0143-reorder-list/) | Medium |
@@ -125,6 +127,7 @@ Maintained by me as part of daily coding practice.
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0075-sort-colors/) | Medium |
 | [0217-contains-duplicate](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0217-contains-duplicate/) | Easy |
