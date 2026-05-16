@@ -39,6 +39,7 @@ Maintained by me as part of daily coding practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0015-3sum/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0046-permutations](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0046-permutations/) | Medium |
@@ -118,6 +119,7 @@ Maintained by me as part of daily coding practice.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0125-valid-palindrome/) | Easy |
@@ -197,4 +199,8 @@ Maintained by me as part of daily coding practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
