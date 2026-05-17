@@ -13,7 +13,7 @@ class Solution {
             } else {
                 if(left<=map.get(s.charAt(right)))  left = map.get(s.charAt(right)) + 1;
                 
-                map.replace(s.charAt(right), right);
+                map.put(s.charAt(right), right);
                 maxLength = Math.max(maxLength, right - left + 1);
                 right++;
 
