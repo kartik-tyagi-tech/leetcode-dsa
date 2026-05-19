@@ -79,6 +79,7 @@ Maintained by me as part of daily coding practice.
 | [0128-longest-consecutive-sequence](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0217-contains-duplicate](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0242-valid-anagram/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0771-jewels-and-stones](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0771-jewels-and-stones/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Math
@@ -104,6 +105,7 @@ Maintained by me as part of daily coding practice.
 | [0125-valid-palindrome](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0344-reverse-string/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0771-jewels-and-stones](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0771-jewels-and-stones/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1108-defanging-an-ip-address/) | Easy |
 ## Simulation
@@ -211,4 +213,5 @@ Maintained by me as part of daily coding practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 <!---LeetCode Topics End-->
