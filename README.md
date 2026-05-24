@@ -40,6 +40,7 @@ Maintained by me as part of daily coding practice.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0011-container-with-most-water/) | Medium |
+| [0014-longest-common-prefix](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0015-3sum/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0046-permutations](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0046-permutations/) | Medium |
@@ -102,6 +103,7 @@ Maintained by me as part of daily coding practice.
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0013-roman-to-integer/) | Easy |
+| [0014-longest-common-prefix](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0014-longest-common-prefix/) | Easy |
 | [0049-group-anagrams](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0125-valid-palindrome/) | Easy |
@@ -217,4 +219,8 @@ Maintained by me as part of daily coding practice.
 | [0003-longest-substring-without-repeating-characters](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
