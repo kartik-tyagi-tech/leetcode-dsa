@@ -92,6 +92,7 @@ Maintained by me as part of daily coding practice.
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0067-add-binary/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0172-factorial-trailing-zeroes](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0204-count-primes](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0204-count-primes/) | Medium |
@@ -111,6 +112,7 @@ Maintained by me as part of daily coding practice.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0067-add-binary/) | Easy |
 | [0076-minimum-window-substring](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0242-valid-anagram/) | Easy |
@@ -121,6 +123,7 @@ Maintained by me as part of daily coding practice.
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0067-add-binary/) | Easy |
 | [1929-concatenation-of-array](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1929-concatenation-of-array/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -162,6 +165,7 @@ Maintained by me as part of daily coding practice.
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0067-add-binary/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
