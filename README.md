@@ -42,6 +42,7 @@ Maintained by me as part of daily coding practice.
 | [0011-container-with-most-water](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0015-3sum/) | Medium |
+| [0027-remove-element](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0027-remove-element/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0046-permutations](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0046-permutations/) | Medium |
 | [0049-group-anagrams](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0049-group-anagrams/) | Medium |
@@ -130,6 +131,7 @@ Maintained by me as part of daily coding practice.
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0015-3sum/) | Medium |
+| [0027-remove-element](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0027-remove-element/) | Easy |
 | [0075-sort-colors](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0125-valid-palindrome/) | Easy |
 | [0143-reorder-list](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0143-reorder-list/) | Medium |
