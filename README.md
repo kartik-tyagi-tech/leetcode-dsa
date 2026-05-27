@@ -88,6 +88,7 @@ Maintained by me as part of daily coding practice.
 | [0771-jewels-and-stones](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0771-jewels-and-stones/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1512-number-of-good-pairs/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,6 +124,7 @@ Maintained by me as part of daily coding practice.
 | [0771-jewels-and-stones](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0771-jewels-and-stones/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
