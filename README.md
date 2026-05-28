@@ -96,6 +96,7 @@ Maintained by me as part of daily coding practice.
 | [0066-plus-one](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0172-factorial-trailing-zeroes](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0204-count-primes](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0204-count-primes/) | Medium |
@@ -192,6 +193,7 @@ Maintained by me as part of daily coding practice.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0198-house-robber/) | Medium |
 ## Binary Search
@@ -246,4 +248,8 @@ Maintained by me as part of daily coding practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
