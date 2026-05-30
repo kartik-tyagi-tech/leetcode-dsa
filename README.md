@@ -53,6 +53,7 @@ Maintained by me as part of daily coding practice.
 | [0088-merge-sorted-array](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0136-single-number](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0136-single-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0162-find-peak-element](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0162-find-peak-element/) | Medium |
 | [0198-house-robber](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0198-house-robber/) | Medium |
@@ -177,6 +178,7 @@ Maintained by me as part of daily coding practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0067-add-binary/) | Easy |
+| [0136-single-number](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0136-single-number/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
