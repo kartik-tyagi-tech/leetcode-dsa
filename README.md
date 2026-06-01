@@ -68,6 +68,7 @@ Maintained by me as part of daily coding practice.
 | [1512-number-of-good-pairs](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1929-concatenation-of-array](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1929-concatenation-of-array/) | Easy |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/3233-find-the-count-of-numbers-which-are-not-special/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -166,6 +167,7 @@ Maintained by me as part of daily coding practice.
 | [0088-merge-sorted-array](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0242-valid-anagram/) | Easy |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -242,6 +244,7 @@ Maintained by me as part of daily coding practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0011-container-with-most-water/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
