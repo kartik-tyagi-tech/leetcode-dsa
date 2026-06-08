@@ -88,6 +88,7 @@ Maintained by me as part of daily coding practice.
 | [0128-longest-consecutive-sequence](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0217-contains-duplicate](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0242-valid-anagram/) | Easy |
+| [0383-ransom-note](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0771-jewels-and-stones](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0771-jewels-and-stones/) | Easy |
@@ -127,6 +128,7 @@ Maintained by me as part of daily coding practice.
 | [0125-valid-palindrome](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0344-reverse-string/) | Easy |
+| [0383-ransom-note](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0771-jewels-and-stones](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0771-jewels-and-stones/) | Easy |
@@ -141,6 +143,7 @@ Maintained by me as part of daily coding practice.
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0383-ransom-note](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Matrix
