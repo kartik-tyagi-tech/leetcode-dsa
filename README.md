@@ -47,6 +47,7 @@ Maintained by me as part of daily coding practice.
 | [0035-search-insert-position](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0035-search-insert-position/) | Easy |
 | [0046-permutations](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0046-permutations/) | Medium |
 | [0049-group-anagrams](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0049-group-anagrams/) | Medium |
+| [0053-maximum-subarray](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0075-sort-colors/) | Medium |
@@ -216,6 +217,7 @@ Maintained by me as part of daily coding practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0053-maximum-subarray](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0198-house-robber/) | Medium |
@@ -278,4 +280,8 @@ Maintained by me as part of daily coding practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0070-climbing-stairs/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
