@@ -135,6 +135,7 @@ Maintained by me as part of daily coding practice.
 | [0387-first-unique-character-in-a-string](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0771-jewels-and-stones](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0771-jewels-and-stones/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -202,6 +203,7 @@ Maintained by me as part of daily coding practice.
 | [0150-evaluate-reverse-polish-notation](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
