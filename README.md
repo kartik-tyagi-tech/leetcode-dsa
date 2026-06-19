@@ -123,6 +123,7 @@ Maintained by me as part of daily coding practice.
 | [0005-longest-palindromic-substring](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0013-roman-to-integer](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0058-length-of-last-word/) | Easy |
@@ -199,6 +200,7 @@ Maintained by me as part of daily coding practice.
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0020-valid-parentheses/) | Easy |
 | [0143-reorder-list](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0143-reorder-list/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0225-implement-stack-using-queues/) | Easy |
