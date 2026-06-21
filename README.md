@@ -62,6 +62,7 @@ Maintained by me as part of daily coding practice.
 | [0217-contains-duplicate](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0704-binary-search](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0704-binary-search/) | Easy |
+| [0739-daily-temperatures](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0739-daily-temperatures/) | Medium |
 | [1250-check-if-it-is-a-good-array](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1470-shuffle-the-array](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1470-shuffle-the-array/) | Easy |
@@ -205,6 +206,7 @@ Maintained by me as part of daily coding practice.
 | [0150-evaluate-reverse-polish-notation](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0739-daily-temperatures](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0739-daily-temperatures/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Design
 | Problem Name | Difficulty |
@@ -288,4 +290,8 @@ Maintained by me as part of daily coding practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0053-maximum-subarray/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
