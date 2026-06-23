@@ -111,6 +111,7 @@ Maintained by me as part of daily coding practice.
 | [0150-evaluate-reverse-polish-notation](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0172-factorial-trailing-zeroes](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0204-count-primes](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0204-count-primes/) | Medium |
+| [0445-add-two-numbers-ii](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [1250-check-if-it-is-a-good-array](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
@@ -208,6 +209,7 @@ Maintained by me as part of daily coding practice.
 | [0150-evaluate-reverse-polish-notation](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0445-add-two-numbers-ii](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0739-daily-temperatures/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -254,6 +256,7 @@ Maintained by me as part of daily coding practice.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0143-reorder-list](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0143-reorder-list/) | Medium |
+| [0445-add-two-numbers-ii](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0445-add-two-numbers-ii/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
