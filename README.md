@@ -207,6 +207,7 @@ Maintained by me as part of daily coding practice.
 | [0020-valid-parentheses](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0020-valid-parentheses/) | Easy |
 | [0143-reorder-list](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0143-reorder-list/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0155-min-stack](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0445-add-two-numbers-ii/) | Medium |
@@ -216,6 +217,7 @@ Maintained by me as part of daily coding practice.
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Queue
