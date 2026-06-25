@@ -75,12 +75,14 @@ Maintained by me as part of daily coding practice.
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/3233-find-the-count-of-numbers-which-are-not-special/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,6 +102,7 @@ Maintained by me as part of daily coding practice.
 | [1512-number-of-good-pairs](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1512-number-of-good-pairs/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -157,6 +160,7 @@ Maintained by me as part of daily coding practice.
 | [0383-ransom-note](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1512-number-of-good-pairs/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -298,9 +302,18 @@ Maintained by me as part of daily coding practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0053-maximum-subarray/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0739-daily-temperatures/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 <!---LeetCode Topics End-->
