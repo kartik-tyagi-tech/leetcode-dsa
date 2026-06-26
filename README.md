@@ -43,6 +43,7 @@ Maintained by me as part of daily coding practice.
 | [0014-longest-common-prefix](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0015-3sum/) | Medium |
 | [0027-remove-element](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0027-remove-element/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0035-search-insert-position/) | Easy |
 | [0046-permutations](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0046-permutations/) | Medium |
@@ -241,6 +242,7 @@ Maintained by me as part of daily coding practice.
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0069-sqrtx/) | Easy |
