@@ -74,6 +74,7 @@ Maintained by me as part of daily coding practice.
 | [1512-number-of-good-pairs](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1929-concatenation-of-array](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1929-concatenation-of-array/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/3233-find-the-count-of-numbers-which-are-not-special/) | Medium |
@@ -149,6 +150,7 @@ Maintained by me as part of daily coding practice.
 | [0771-jewels-and-stones](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0771-jewels-and-stones/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1108-defanging-an-ip-address/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/3838-weighted-word-mapping/) | Easy |
