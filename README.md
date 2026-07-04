@@ -96,6 +96,7 @@ Maintained by me as part of daily coding practice.
 | [0049-group-anagrams](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0076-minimum-window-substring/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0205-isomorphic-strings](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0383-ransom-note/) | Easy |
@@ -142,6 +143,7 @@ Maintained by me as part of daily coding practice.
 | [0067-add-binary](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0067-add-binary/) | Easy |
 | [0076-minimum-window-substring](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0125-valid-palindrome/) | Easy |
+| [0205-isomorphic-strings](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0383-ransom-note/) | Easy |
