@@ -68,6 +68,7 @@ Maintained by me as part of daily coding practice.
 | [0704-binary-search](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0739-daily-temperatures/) | Medium |
 | [1250-check-if-it-is-a-good-array](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
+| [1288-remove-covered-intervals](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1470-shuffle-the-array](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -198,6 +199,7 @@ Maintained by me as part of daily coding practice.
 | [0088-merge-sorted-array](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0242-valid-anagram/) | Easy |
+| [1288-remove-covered-intervals](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1288-remove-covered-intervals/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 ## Number Theory
