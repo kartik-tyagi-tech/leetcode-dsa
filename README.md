@@ -134,6 +134,7 @@ Maintained by me as part of daily coding practice.
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0006-zigzag-conversion](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0006-zigzag-conversion/) | Medium |
 | [0013-roman-to-integer](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0020-valid-parentheses/) | Easy |
