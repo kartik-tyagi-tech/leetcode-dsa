@@ -70,6 +70,7 @@ Maintained by me as part of daily coding practice.
 | [1250-check-if-it-is-a-good-array](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1470-shuffle-the-array](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -86,6 +87,7 @@ Maintained by me as part of daily coding practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0238-product-of-array-except-self/) | Medium |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Hash Table
