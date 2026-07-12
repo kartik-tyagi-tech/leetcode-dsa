@@ -291,6 +291,7 @@ Maintained by me as part of daily coding practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -332,4 +333,16 @@ Maintained by me as part of daily coding practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/2685-count-the-number-of-complete-components/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/2685-count-the-number-of-complete-components/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 <!---LeetCode Topics End-->
