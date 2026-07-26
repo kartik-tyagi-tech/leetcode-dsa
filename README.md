@@ -54,6 +54,7 @@ Maintained by me as part of daily coding practice.
 | [0075-sort-colors](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0075-sort-colors/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0088-merge-sorted-array/) | Easy |
+| [0118-pascals-triangle](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0136-single-number/) | Easy |
@@ -254,6 +255,7 @@ Maintained by me as part of daily coding practice.
 | [0005-longest-palindromic-substring](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0053-maximum-subarray](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0070-climbing-stairs/) | Easy |
+| [0118-pascals-triangle](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0198-house-robber/) | Medium |
 ## Binary Search
