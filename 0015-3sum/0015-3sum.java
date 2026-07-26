@@ -1,32 +1,48 @@
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
-        int n = nums.length;
-
-        HashSet<Integer>set=new HashSet<>();
-        HashSet<List<Integer>> check = new HashSet<>();
         List<List<Integer>> result = new ArrayList<>();
-
-        for(int i =0;i<n;i++){
+        Arrays.sort(nums);
+        int n = nums.length;
+        int i =0;
+        while(i<n-2){
             int j = i+1;
-            while(j<n){
-                int needed = -(nums[i]+nums[j]);
-                         if(set.contains(needed)) {
-                ArrayList<Integer> list = new ArrayList<>();
-                   list.add(nums[i]);
-                list.add(nums[j]);
-                  list.add(needed);
-                Collections.sort(list);
-                check.add(list);
-                j++;
-            }else {
-                set.add(nums[j]);
-                j++;
+            int k = n-1;
+            while(j<k){
+                int value = nums[i] + nums[j] + nums[k];
+                if(value==0) {
+                    ArrayList<Integer>list=new ArrayList<>();
+                    list.add(nums[i]);
+                    list.add(nums[j]);
+                    list.add(nums[k]);
+                    result.add(list);
+                    
+                    int temp2=nums[j];
+                    int temp3=nums[k];
+                    while(j<k && nums[j]==temp2){
+                        j++;
+                    }
+                    while(k>j && nums[k]==temp3){
+                        k--;
+                    }
+                }
+                if(value<0){
+                    int temp2=nums[j];
+                    while(j<k && nums[j]==temp2){
+                        j++;
+                    }
+                } 
+                if(value>0){
+                    int temp2=nums[j];
+                    int temp3=nums[k];
+                    while(k>j && nums[k]==temp3){
+                        k--;
+                    }
+                } 
+            } 
+            int temp1=nums[i];
+            while(i<n-2 && nums[i]==temp1){
+                i++;
             }
-             } 
-             set.clear();
-        }
-        for(List each:check){
-            result.add(each);
         }
         return result;
     }
