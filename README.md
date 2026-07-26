@@ -65,6 +65,7 @@ Maintained by me as part of daily coding practice.
 | [0198-house-robber](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0198-house-robber/) | Medium |
 | [0204-count-primes](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0204-count-primes/) | Medium |
 | [0217-contains-duplicate](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0217-contains-duplicate/) | Easy |
+| [0229-majority-element-ii](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0496-next-greater-element-i](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0496-next-greater-element-i/) | Easy |
 | [0704-binary-search](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0704-binary-search/) | Easy |
@@ -105,6 +106,7 @@ Maintained by me as part of daily coding practice.
 | [0169-majority-element](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0217-contains-duplicate/) | Easy |
+| [0229-majority-element-ii](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -176,6 +178,7 @@ Maintained by me as part of daily coding practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0229-majority-element-ii/) | Medium |
 | [0383-ransom-note](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -209,6 +212,7 @@ Maintained by me as part of daily coding practice.
 | [0088-merge-sorted-array](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0217-contains-duplicate/) | Easy |
+| [0229-majority-element-ii](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0242-valid-anagram/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1288-remove-covered-intervals/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
