@@ -69,6 +69,7 @@ Maintained by me as part of daily coding practice.
 | [0229-majority-element-ii](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0496-next-greater-element-i](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0496-next-greater-element-i/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0739-daily-temperatures/) | Medium |
 | [1250-check-if-it-is-a-good-array](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
@@ -92,6 +93,7 @@ Maintained by me as part of daily coding practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -113,6 +115,7 @@ Maintained by me as part of daily coding practice.
 | [0387-first-unique-character-in-a-string](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0496-next-greater-element-i](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0496-next-greater-element-i/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0771-jewels-and-stones](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0771-jewels-and-stones/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1512-number-of-good-pairs/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
