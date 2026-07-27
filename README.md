@@ -367,4 +367,8 @@ Maintained by me as part of daily coding practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/2685-count-the-number-of-complete-components/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
