@@ -372,5 +372,6 @@ Maintained by me as part of daily coding practice.
 | ------- | ------- |
 | [0584-find-customer-referee](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0595-big-countries/) | Easy |
+| [1148-article-views-i](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1148-article-views-i/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
