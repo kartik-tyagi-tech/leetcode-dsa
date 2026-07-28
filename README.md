@@ -50,6 +50,7 @@ Maintained by me as part of daily coding practice.
 | [0046-permutations](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0046-permutations/) | Medium |
 | [0049-group-anagrams](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0053-maximum-subarray/) | Medium |
+| [0056-merge-intervals](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0075-sort-colors/) | Medium |
@@ -214,6 +215,7 @@ Maintained by me as part of daily coding practice.
 | [0015-3sum](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0018-4sum/) | Medium |
 | [0049-group-anagrams](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0049-group-anagrams/) | Medium |
+| [0056-merge-intervals](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0169-majority-element/) | Easy |
