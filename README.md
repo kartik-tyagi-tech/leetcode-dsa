@@ -246,6 +246,7 @@ Maintained by me as part of daily coding practice.
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0020-valid-parentheses/) | Easy |
 | [0143-reorder-list](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0143-reorder-list/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0225-implement-stack-using-queues/) | Easy |
@@ -362,6 +363,7 @@ Maintained by me as part of daily coding practice.
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [2685-count-the-number-of-complete-components](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -389,4 +391,12 @@ Maintained by me as part of daily coding practice.
 | [1683-invalid-tweets](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1934-confirmation-rate](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1934-confirmation-rate/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
