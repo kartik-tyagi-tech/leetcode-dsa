@@ -89,6 +89,7 @@ Maintained by me as part of daily coding practice.
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/3233-find-the-count-of-numbers-which-are-not-special/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3731-find-missing-elements](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Prefix Sum
@@ -122,6 +123,7 @@ Maintained by me as part of daily coding practice.
 | [1512-number-of-good-pairs](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1512-number-of-good-pairs/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3731-find-missing-elements](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -226,6 +228,7 @@ Maintained by me as part of daily coding practice.
 | [1288-remove-covered-intervals](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1288-remove-covered-intervals/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
+| [3731-find-missing-elements](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/3731-find-missing-elements/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
