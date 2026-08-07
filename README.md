@@ -172,6 +172,7 @@ Maintained by me as part of daily coding practice.
 | [0771-jewels-and-stones](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0771-jewels-and-stones/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1108-defanging-an-ip-address/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -212,6 +213,7 @@ Maintained by me as part of daily coding practice.
 | [0143-reorder-list](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0143-reorder-list/) | Medium |
 | [0344-reverse-string](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0344-reverse-string/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [1768-merge-strings-alternately](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
