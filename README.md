@@ -139,6 +139,7 @@ Maintained by me as part of daily coding practice.
 | [0445-add-two-numbers-ii](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
+| [1071-greatest-common-divisor-of-strings](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1250-check-if-it-is-a-good-array](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1512-number-of-good-pairs](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2235-add-two-integers](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/2235-add-two-integers/) | Easy |
@@ -171,6 +172,7 @@ Maintained by me as part of daily coding practice.
 | [0424-longest-repeating-character-replacement](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0771-jewels-and-stones](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0771-jewels-and-stones/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1071-greatest-common-divisor-of-strings](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -416,4 +418,12 @@ Maintained by me as part of daily coding practice.
 | [0094-binary-tree-inorder-traversal](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 <!---LeetCode Topics End-->
