@@ -67,6 +67,7 @@ Maintained by me as part of daily coding practice.
 | [0169-majority-element](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0198-house-robber/) | Medium |
 | [0204-count-primes](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0204-count-primes/) | Medium |
+| [0213-house-robber-ii](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0213-house-robber-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -286,6 +287,7 @@ Maintained by me as part of daily coding practice.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0198-house-robber/) | Medium |
+| [0213-house-robber-ii](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0213-house-robber-ii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
