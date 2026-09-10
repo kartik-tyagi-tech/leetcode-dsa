@@ -86,6 +86,7 @@ Maintained by me as part of daily coding practice.
 | [1929-concatenation-of-array](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1929-concatenation-of-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/3233-find-the-count-of-numbers-which-are-not-special/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -185,6 +186,7 @@ Maintained by me as part of daily coding practice.
 | ------- | ------- |
 | [0067-add-binary](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0067-add-binary/) | Easy |
 | [1929-concatenation-of-array](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1929-concatenation-of-array/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -217,6 +219,7 @@ Maintained by me as part of daily coding practice.
 | [0344-reverse-string](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0344-reverse-string/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1768-merge-strings-alternately/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
