@@ -1,12 +1,23 @@
 class Solution {
     public int rob(int[] nums) {
-        int prev1 =0;
-        int prev2 =0;
-        for(int each:nums){
-            int sum=Math.max(prev1,prev2+each);
-            prev2=prev1;
-            prev1=sum;
+        
+        if(nums.length==1) return nums[0];
+        int last = 0;
+        int secondLast = 0;
+
+        int pick = 0;
+        int notPick = 0;
+
+        int result =0;
+
+        for(int i =0;i<=nums.length-1;i++){
+              pick = secondLast + nums[i];
+              notPick = last;
+
+              result = Math.max(pick,notPick);
+              secondLast = last;
+              last = result;
         }
-        return prev1;
+           return result;
     }
 }
