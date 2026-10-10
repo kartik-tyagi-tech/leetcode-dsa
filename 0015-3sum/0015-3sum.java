@@ -1,49 +1,39 @@
+
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
-        List<List<Integer>> result = new ArrayList<>();
+        List<List<Integer>> list = new ArrayList<>();
         Arrays.sort(nums);
-        int n = nums.length;
-        int i =0;
-        while(i<n-2){
-            int j = i+1;
-            int k = n-1;
-            while(j<k){
-                int value = nums[i] + nums[j] + nums[k];
-                if(value==0) {
-                    ArrayList<Integer>list=new ArrayList<>();
-                    list.add(nums[i]);
-                    list.add(nums[j]);
-                    list.add(nums[k]);
-                    result.add(list);
-                    
-                    int temp2=nums[j];
-                    int temp3=nums[k];
-                    while(j<k && nums[j]==temp2){
-                        j++;
+
+        for (int i = 0; i < nums.length - 2; i++) {
+            if (i > 0 && nums[i] == nums[i - 1]) continue;
+
+            int left = i + 1;
+            int right = nums.length - 1;
+
+            while (left < right) {
+                int sum = nums[i] + nums[left] + nums[right];
+
+                if (sum == 0) {
+                    list.add(Arrays.asList(nums[i], nums[left], nums[right]));
+
+                    left++;
+                    right--;
+
+                    while (left < right && nums[left] == nums[left - 1]) {
+                        left++;
                     }
-                    while(k>j && nums[k]==temp3){
-                        k--;
+
+                    while (left < right && nums[right] == nums[right + 1]) {
+                        right--;
                     }
+                } else if (sum > 0) {
+                    right--;
+                } else {
+                    left++;
                 }
-                if(value<0){
-                    int temp2=nums[j];
-                    while(j<k && nums[j]==temp2){
-                        j++;
-                    }
-                } 
-                if(value>0){
-                    int temp2=nums[j];
-                    int temp3=nums[k];
-                    while(k>j && nums[k]==temp3){
-                        k--;
-                    }
-                } 
-            } 
-            int temp1=nums[i];
-            while(i<n-2 && nums[i]==temp1){
-                i++;
             }
         }
-        return result;
+
+        return list;
     }
 }
