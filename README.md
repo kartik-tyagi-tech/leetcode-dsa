@@ -72,6 +72,7 @@ Maintained by me as part of daily coding practice.
 | [0217-contains-duplicate](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0283-move-zeroes](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0283-move-zeroes/) | Easy |
 | [0496-next-greater-element-i](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0704-binary-search/) | Easy |
@@ -218,6 +219,7 @@ Maintained by me as part of daily coding practice.
 | [0125-valid-palindrome](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0125-valid-palindrome/) | Easy |
 | [0143-reorder-list](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0143-reorder-list/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0283-move-zeroes](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0344-reverse-string/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/kartik-tyagi-tech/leetcode-dsa/tree/main/1768-merge-strings-alternately/) | Easy |
